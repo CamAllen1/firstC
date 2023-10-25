@@ -33,7 +33,7 @@ This is a simple ATM (Automated Teller Machine) system implemented in C#. This p
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/CamAllen1/EasyATM.git
+   git clone https://github.com/CamAllen1/firstC.git
    ```
 
 2. Open the project in your preferred C# development environment (e.g., Visual Studio).
